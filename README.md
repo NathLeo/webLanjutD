@@ -1,4 +1,4 @@
-#  Sebelum mulai?
+#  Sebelum mulai
 * Buat akun github
 * Buka dokumentasi Codeigniter
     - apa itu URL Helper?
